@@ -2,6 +2,12 @@
 
 A clean, lightweight to-do list app built with vanilla HTML, CSS, and JavaScript. No frameworks, no build step — just open it in a browser. Your tasks are saved automatically in the browser's local storage, so they persist between visits.
 
+## Screenshots
+
+![TaskFlow main view](screenshots/01-main.png)
+
+More views in [SCREENSHOTS.md](SCREENSHOTS.md).
+
 ## Features
 
 - **Add tasks** — type and press Enter or click **Add** (minimum 2 characters, with inline validation)
